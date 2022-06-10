@@ -4,7 +4,7 @@ go 1.15
 
 require (
 	github.com/docker/distribution v2.7.1+incompatible
-	github.com/emicklei/go-restful/v3 v3.3.3
+	github.com/emicklei/go-restful/v3 v3.8.0
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/prometheus/client_golang v1.10.0
